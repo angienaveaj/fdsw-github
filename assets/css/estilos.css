@@ -1,3 +1,7 @@
+html {
+  
+}
+
 body {
   font-family: "Raleway", sans-serif;
 }
@@ -7,7 +11,6 @@ h3,
 h4 {
   color: #0f064f;
 }
-
 
 /* Hero Section */
 
@@ -75,6 +78,10 @@ main p {
 }
 
 /* Contacto */
+
+.bg-footer {
+  background-color: #0f064f;
+}
 
 #Contacto form label {
   font-weight: 700;
