@@ -8,7 +8,9 @@ h4 {
   color: #0f064f;
 }
 
+
 /* Hero Section */
+
 .bg-menu {
   background-color: #2a0255;
 }
@@ -42,12 +44,28 @@ h4 {
   border: 2px solid #00cda4;
 }
 
+
 /* Main */
+
 main p {
   color: #535069;
 }
 
 /* Mis trabajos */
+
+.bg-trabajos {
+  background-color: #00cda4;
+}
+
+.tarjeta {
+  border:none;
+  border-radius:10px;
+}
+
+.imagen-card {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
 
 #Mis-trabajos .image-top {
   height: 250px;
