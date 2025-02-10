@@ -1,7 +1,3 @@
-html {
-  
-}
-
 body {
   font-family: "Raleway", sans-serif;
 }
@@ -79,14 +75,17 @@ main p {
 
 /* Contacto */
 
-.bg-footer {
-  background-color: #0f064f;
-}
-
 #Contacto form label {
   font-weight: 700;
   color: #373a3c;
 }
+
+/* Footer */
+
+.bg-footer {
+  background-color: #0f064f;
+}
+
 
 @media (max-width: 768px) {
   #Contacto form label {
