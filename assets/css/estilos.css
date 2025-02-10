@@ -2,6 +2,12 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+h2,
+h3,
+h4 {
+  color: #0f064f;
+}
+
 /* Hero Section */
 .bg-menu {
   background-color: #2a0255;
@@ -34,6 +40,11 @@ body {
   background-color: #00cda4;
   border-radius: 100px;
   border: 2px solid #00cda4;
+}
+
+/* Main */
+main p {
+  color: #535069;
 }
 
 /* Mis trabajos */
